@@ -8,14 +8,23 @@ Dark green: #28b485
 */
 
 
-$color-primary: #7ed56f;
 $color-primary-light: #55c57a;
 $color-primary-dark: #28b485;
+$color-primary: #7ed56f;
+
+$color-secondary-light: #ffb900;
+$color-secondary-dark: #ff7730;
+$color-secondary:#ff7730;
+
+$color-tertiary-light: #2998ff;
+$color-tertiary-dark: #5643fa;
+$color-tertiary:#5643fa;
+
 $color-gray-dark: #777;
 $color-white: #ffffff;
 $color-black: #000000;
 $color-gray-light-1: #f7f7f7;
-
+$color-gray-light-2: #eee;
 
 //FONT
 $default-font-size: 1.6rem;

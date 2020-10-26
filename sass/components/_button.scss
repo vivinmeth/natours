@@ -30,11 +30,21 @@
   }
 
   &--white {
-    color: #777;
+    color: $color-gray-dark;
     background-color: $color-white;
 
     &::after{
       background-color: $color-white;
+
+    }
+  }
+
+  &--green {
+    color: $color-white;
+    background-color: $color-primary;
+
+    &::after{
+      background-color: $color-primary;
 
     }
   }
