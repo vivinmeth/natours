@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Natours site",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass ./sass/main.scss ./css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/udemy-projects4/natours.git"
+  },
+  "author": "VivinMeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/udemy-projects4/natours/issues"
+  },
+  "homepage": "https://gitlab.com/udemy-projects4/natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
