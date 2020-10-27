@@ -46,10 +46,11 @@
   }
 
   &__list{
+    @include center-horizontal-vertical;
     width: 100%;
     text-align: center;
     list-style: none;
-    @include center-horizontal-vertical;
+
 
   }
 
