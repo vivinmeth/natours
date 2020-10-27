@@ -567,6 +567,10 @@ body {
       text-align: center;
       color: #f7f7f7; }
 
+.navigation__checkbox {
+  opacity: 0;
+  visibility: hidden; }
+
 .navigation__button {
   background-color: white;
   height: 7rem;
